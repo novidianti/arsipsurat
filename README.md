@@ -19,3 +19,6 @@ Step 7: Run Migrations => php artisan migrate
 Step 8: Serve the Application =>php artisan serve
 
 By default, the application will be accessible at http://localhost:8000. Open your web browser and visit this URL to see your Laravel application in action.
+
+![01 Halaman Login](https://github.com/novidiannti/arsipsurat/img/login.jpg)
+![02 Halaman Home](https://github.com/novidiannti/arsipsurat/img/home.jpg)
