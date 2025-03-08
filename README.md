@@ -4,7 +4,7 @@ How to run a Laravel project from GitHub repository?
 
 Step 1: Install Required Software.
 
-Step 2: Clone the GitHub Repository => git clone https://github.com/novidiannti/repository.git
+Step 2: Clone the GitHub Repository => git clone https://github.com/novidianti/repository.git
 
 Step 3: Navigate to the Project Directory => cd repository
 
