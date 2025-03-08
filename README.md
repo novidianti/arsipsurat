@@ -20,5 +20,6 @@ Step 8: Serve the Application =>php artisan serve
 
 By default, the application will be accessible at http://localhost:8000. Open your web browser and visit this URL to see your Laravel application in action.
 
-![01 Halaman Login](https://github.com/novidianti/arsipsurat/tree/main/img/login.jpg)
-![02 Halaman Home](https://github.com/novidianti/arsipsurat/tree/main/img/home.jpg)
+
+![01 Halaman Login](https://github.com/novidianti/arsipsurat/blob/main/img/login.jpg) 
+![02 Halaman Home](https://github.com/novidianti/arsipsurat/blob/main/img/home.jpg)
